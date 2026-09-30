@@ -1,0 +1,12 @@
+Aahaar Scanner - White Reference
+
+F1 (415nm) = 1768
+F2 (445nm) = 1284
+F3 (480nm) = 1134
+F4 (515nm) = 2323
+F5 (555nm) = 1173
+F6 (590nm) = 3008
+F7 (630nm) = 3035
+F8 (680nm) = 3525
+CLEAR     = 18285
+NIR       = 27309
