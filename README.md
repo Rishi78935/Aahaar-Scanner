@@ -2,7 +2,7 @@
 
 This repository is an early engineering experiment by **A. Rishikesh**.
 
-The repository is intentionally kept simple while newer work is organized around larger projects in embedded systems, sensing, control, and edge AI.
+The repository is intentionally kept simple while newer work is organized around larger projects in embedded systems, sensing, control, and electronics.
 
 ## Current focus
 
